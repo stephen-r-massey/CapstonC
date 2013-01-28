@@ -1,0 +1,12 @@
+git add <filenames you changed> // this adds
+git commit // commits your changes
+
+git pull // gets the most recent copy of the repo then puts your changes on it
+
+// There may be merge conflicts. add your changes but dont hurt others work!!
+
+git push // pushes your changes to the server
+
+// To get the repo, add a github account, get Stephen
+git clone https://github.com/stephen-r-massey/CapstonC
+
